@@ -1,0 +1,22 @@
+fungsi di react dalam hal ini jsx harus mengembalikan html yg sudah di kustom
+
+fungsi ini yang kemudian menjadi koomponen
+
+bisa diexport ke fungsi/komponen yang lain
+
+react hanya tools untuk gabungin komponen/ui
+react tdk mengatur cara routing dan pengambilan data
+disarankan dengan next.js atau remix
+
+className untuk memberikan utility tailwind
+
+fungsi komponen harus melakukan return
+
+///////////////////////////////////////
+
+komponen di react = memecah ui menjadi bagian bagian kecil yg berdiri sendiri dan bisa reusable
+komponen bisa mereduksi duplikasi yang ada
+
+props atau properti = sebuah parameter di fungsi agar bisa mengubah komponennya seperti type
+
+children untuk menangkap yg ada di dalam tag html nya
